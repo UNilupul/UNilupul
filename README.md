@@ -1,10 +1,14 @@
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+
 <h1 align="center">Hi 👋, I'm Udara Nilupul</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
 <br>
 <br>
 
-[![Udara's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UNilupul&theme=tokyonight)](https://git.io/praveenscience)
+<!-- [![Udara's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UNilupul&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Udara's github stats](https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=tokyonight) | ![Udara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UNilupul&theme=tokyonight) |
 | --- | --- |
@@ -12,12 +16,6 @@
 
 <br>
 <br>
-
-<div>
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNilupul&theme=nord&hide=jupyter%20notebook,hack"/></br>
-  <img height="225" src="https://streak-stats.demolab.com?user=UNilupul&theme=nord&mode=weekly"/>
-</div>
 
 --- 
 
