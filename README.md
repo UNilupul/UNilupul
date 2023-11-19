@@ -21,3 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unilupul&" alt="unilupul" /></p>
 
+--- 
+
+<h3 align="left">Holopin Board:</h3>
+
+[![An image of @unilupul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unilupul)](https://holopin.io/@unilupul)
