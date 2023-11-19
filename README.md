@@ -7,8 +7,6 @@
 
 ---
 
-<br>
-
 <!-- [![Udara's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UNilupul&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Udara's github stats](https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=tokyonight) | ![Udara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UNilupul&theme=tokyonight) |
