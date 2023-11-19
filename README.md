@@ -21,6 +21,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unilupul&" alt="unilupul" /></p>
 
+<div>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNilupul&theme=nord&hide=jupyter%20notebook,hack"/></br>
+  <img height="225" src="https://streak-stats.demolab.com?user=UNilupul&theme=nord&mode=weekly"/>
+</div>
+
 --- 
 
 <h3 align="left">Holopin Board:</h3>
