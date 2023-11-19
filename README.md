@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Udara Nilupul</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
+<br>
+<br>
 
+[![Udara's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UNilupul&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Udara's github stats](https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=tokyonight) | ![Udara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UNilupul&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNilupul&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<br>
+<br>
 
 <div>
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=UNilupul&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
