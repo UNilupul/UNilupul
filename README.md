@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udara Nilupul</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unilupul&label=Profile%20views&color=0e75b6&style=flat" alt="unilupul" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unilupul" alt="unilupul" /></a> </p>
 
@@ -26,3 +26,5 @@
 <h3 align="left">Holopin Board:</h3>
 
 [![An image of @unilupul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unilupul)](https://holopin.io/@unilupul)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unilupul&label=Profile%20views&color=0e75b6&style=flat" alt="unilupul" /> </p>
