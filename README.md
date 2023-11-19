@@ -6,8 +6,8 @@
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
 <br>
+
 ---
-<br>
 
 <br>
 <br>
